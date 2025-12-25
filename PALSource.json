@@ -11,22 +11,24 @@
         "com.1nxfp.ddogdgdps"
     ],
     "apps": [
-    {
-        "name": "DDOGD GDPS",
-        "bundleIdentifier": "com.1nxfp.ddogdgdps",
-        "developerName": "1NXFP",
-        "versions": [
-            {
-                "version": "1.0",
-                "date": "2025-12-25T12:00:00-05:00",
-                "localizedDescription": "Initial release of DDOGD GDPS.",
-                "downloadURL": "https://download1472.mediafire.com/37r6dbddcpfgn-pMFb8-pfIhrEgyFFaPpPYF2Y_tTO0BRQnItOsRXTjuKUVGvU1mVd68AOSbuGyWEFdXH9nX-y12rLgmMjzK2tCJZieqiCY8A1QFWNRYAEIsMX6fDkWjCwG68aDACc2ha2pYUhikhjTN3AeN5ql0zEgkn1rIt0XT/72pztfe5d63k4l7/DDOGDGDPS.ipa",
-                "size": 0,
-                "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
-                "minOSVersion": "14.0"
-            }
-        ]
-    }
-]
+        {
+            "name": "DDOGD GDPS",
+            "bundleIdentifier": "com.1nxfp.ddogdgdps",
+            "developerName": "1NXFP",
+            "versions": [
+                {
+                    "version": "1.0",
+                    "date": "2025-12-25T12:00:00-05:00",
+                    "localizedDescription": "Initial release of DDOGD GDPS.",
+                    "downloadURL": "https://download1472.mediafire.com/37r6dbddcpfgn-pMFb8-pfIhrEgyFFaPpPYF2Y_tTO0BRQnItOsRXTjuKUVGvU1mVd68AOSbuGyWEFdXH9nX-y12rLgmMjzK2tCJZieqiCY8A1QFWNRYAEIsMX6fDkWjCwG68aDACc2ha2pYUhikhjTN3AeN5ql0zEgkn1rIt0XT/72pztfe5d63k4l7/DDOGDGDPS.ipa",
+                    "size": 0,
+                    "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+                    "minOSVersion": "14.0"
+                }
+            ]
+        }
+    ]
+}
+
 
 
