@@ -20,9 +20,6 @@
       "localizedDescription": "Initial release of DDOGD GDPS. Enjoy the custom levels and experimental features.",
       "iconURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
       "tintColor": "#FF6600",
-      "version": "1.0",
-      "versionDate": "2025-12-25",
-      "versionDescription": "Initial release.",
       "versions": [
         {
           "version": "1.0",
