@@ -6,6 +6,7 @@
   "iconURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
   "headerURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
   "website": "https://github.com/1NXFPdev/AltStore-DDOGD-GDPS",
+  "patreonURL": "https://www.patreon.com/Altstoregdps",
   "tintColor": "#FF6600",
   "featuredApps": [
     "com.1nxfp.ddogdgdps"
@@ -20,9 +21,19 @@
       "localizedDescription": "Initial release of DDOGD GDPS. Enjoy the custom levels and experimental features.",
       "iconURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
       "tintColor": "#FF6600",
+      "screenshots": [
+        "https://i.ytimg.com/vi/JiG-lqa05eE/hqdefault.jpg",
+        "https://i.ytimg.com/vi/dli1ESFbe3E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDTVPdEdlUuAqLFGX7sjoX1-DEVYA",
+        {
+          "imageURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
+          "width": 2556,
+          "height": 1179
+        }
+      ],
       "versions": [
         {
           "version": "1.0",
+          "buildVersion": "1",
           "date": "2025-12-25T12:00:00-05:00",
           "size": 144640000,
           "downloadURL": "https://download1472.mediafire.com/siz85628ldrgLSGk49pGDf_H-wJ7dDeDajMz_TkQv55_HMHAKtSwz0j00mQUBPKgdqfQf6po-7LYp2FhHYb1-nV05DKEMNiWARd2ooxjZ23wDjjGGNLPAPpHQcIozncXUpIKnKAMcmELOgNsmBaBq9npV89oIHyE-ZDjlhIHwihA/72pztfe5d63k4l7/DDOGDGDPS.ipa",
@@ -30,7 +41,29 @@
           "localizedDescription": "Initial release.",
           "minOSVersion": "14.0"
         }
-      ]
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
+          "NSCameraUsageDescription": "App uses camera if needed.",
+          "NSMicrophoneUsageDescription": "App uses microphone if needed."
+        }
+      }
+    }
+  ],
+  "news": [
+    {
+      "title": "DDOGD GDPS Released",
+      "identifier": "ddogdgdps_release",
+      "caption": "DDOGD GDPS is now available without extra stuff!!!",
+      "date": "2025-12-25",
+      "tintColor": "#FF6600",
+      "imageURL": "https://example.com/ddogdgdps/news_image.png",
+      "notify": true,
+      "url": "https://github.com/1NXFPdev/AltStore-DDOGD-GDPS"
     }
   ]
 }
