@@ -13,12 +13,13 @@
         {
             "name": "DDOGD GDPS",
             "bundleIdentifier": "com.1nxfp.ddogdgdps",
-            "marketplaceID": "12345678",
+            "marketplaceID": "0123456789",
             "developerName": "1NXFP",
             "subtitle": "Geometry Dash Private Server",
-            "localizedDescription": "This is DDOGD GDPS",
-            "iconURL": "https://example.com/ddogdgdps/icon.png",
+            "localizedDescription": "This is DDOGD GDPS only available on AltStore.",
+            "iconURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
             "tintColor": "#FF6600",
+            "category": "games",
             "screenshots": [
                 "https://i.ytimg.com/vi/JiG-lqa05eE/hqdefault.jpg",
                 "https://i.ytimg.com/vi/dli1ESFbe3E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDTVPdEdlUuAqLFGX7sjoX1-DEVYA",
@@ -40,13 +41,16 @@
                 }
             ],
             "appPermissions": {
-                "entitlements": [],
+                "entitlements": [
+                    "com.apple.security.application-groups"
+                ],
                 "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library if needed.",
+                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
                     "NSCameraUsageDescription": "App uses camera if needed.",
                     "NSMicrophoneUsageDescription": "App uses microphone if needed."
                 }
-            }
+            },
+            "patreon": {}
         }
     ],
     "news": [
