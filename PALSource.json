@@ -2,8 +2,8 @@
     "name": "1NXFP AltStore Source",
     "subtitle": "All my apps in one place.",
     "description": "Welcome to 1NXFP's source! Here you'll find DDOGD GDPS and other experimental apps.",
-    "iconURL": "https://example.com/ddogdgdps/icon.png",
-    "headerURL": "https://example.com/ddogdgdps/header.png",
+    "iconURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
+    "headerURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
     "website": "https://github.com/1NXFPdev/AltStore-DDOGD-GDPS",
     "tintColor": "#FF6600",
     "featuredApps": [
@@ -16,14 +16,14 @@
             "marketplaceID": "12345678",
             "developerName": "1NXFP",
             "subtitle": "Geometry Dash Private Server",
-            "localizedDescription": "This is DDOGD GDPS by 1NXFP.",
+            "localizedDescription": "This is DDOGD GDPS",
             "iconURL": "https://example.com/ddogdgdps/icon.png",
             "tintColor": "#FF6600",
             "screenshots": [
-                "https://example.com/ddogdgdps/screenshot1.png",
-                "https://example.com/ddogdgdps/screenshot2.png",
+                "https://i.ytimg.com/vi/JiG-lqa05eE/hqdefault.jpg",
+                "https://i.ytimg.com/vi/dli1ESFbe3E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDTVPdEdlUuAqLFGX7sjoX1-DEVYA",
                 {
-                    "imageURL": "https://example.com/ddogdgdps/screenshot_landscape.png",
+                    "imageURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
                     "width": 2556,
                     "height": 1179
                 }
