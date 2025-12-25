@@ -5,6 +5,7 @@
     "iconURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
     "headerURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
     "website": "https://github.com/1NXFPdev/AltStore-DDOGD-GDPS",
+    "patreonURL": "https://www.patreon.com/ddogdgdps",
     "tintColor": "#FF6600",
     "featuredApps": [
         "com.1nxfp.ddogdgdps"
@@ -13,7 +14,7 @@
         {
             "name": "DDOGD GDPS",
             "bundleIdentifier": "com.1nxfp.ddogdgdps",
-            
+            "marketplaceID": "0123456789",
             "developerName": "1NXFP",
             "subtitle": "Geometry Dash Private Server",
             "localizedDescription": "This is DDOGD GDPS only available on AltStore.",
