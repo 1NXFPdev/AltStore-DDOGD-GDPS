@@ -14,11 +14,15 @@
     {
       "name": "DDOGD GDPS",
       "bundleIdentifier": "com.1nxfp.ddogdgdps",
+      "marketplaceID": "0000000000",
       "developerName": "1NXFP",
       "subtitle": "Geometry Dash Private Server",
       "localizedDescription": "Initial release of DDOGD GDPS. Enjoy the custom levels and experimental features.",
       "iconURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
       "tintColor": "#FF6600",
+      "version": "1.0",
+      "versionDate": "2025-12-25",
+      "versionDescription": "Initial release.",
       "versions": [
         {
           "version": "1.0",
