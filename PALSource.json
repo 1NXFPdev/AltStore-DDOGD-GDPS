@@ -1,11 +1,11 @@
 {
   "name": "1NXFP AltStore Source",
+  "identifier": "com.1nxfp.source",
   "subtitle": "All my apps in one place.",
   "description": "Welcome to 1NXFP's source! Here you'll find DDOGD GDPS and other experimental apps.",
   "iconURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
   "headerURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
   "website": "https://github.com/1NXFPdev/AltStore-DDOGD-GDPS",
-  "patreonURL": "https://www.patreon.com/Altstoregdps",
   "tintColor": "#FF6600",
   "featuredApps": [
     "com.1nxfp.ddogdgdps"
@@ -16,15 +16,17 @@
       "bundleIdentifier": "com.1nxfp.ddogdgdps",
       "developerName": "1NXFP",
       "subtitle": "Geometry Dash Private Server",
+      "localizedDescription": "Initial release of DDOGD GDPS. Enjoy the custom levels and experimental features.",
       "iconURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
+      "tintColor": "#FF6600",
       "versions": [
         {
           "version": "1.0",
           "date": "2025-12-25T12:00:00-05:00",
-          "localizedDescription": "Initial release of DDOGD GDPS.",
-          "downloadURL": "https://download1472.mediafire.com/siz85628ldrgLSGk49pGDf_H-wJ7dDeDajMz_TkQv55_HMHAKtSwz0j00mQUBPKgdqfQf6po-7LYp2FhHYb1-nV05DKEMNiWARd2ooxjZ23wDjjGGNLPAPpHQcIozncXUpIKnKAMcmELOgNsmBaBq9npV89oIHyE-ZDjlhIHwihA/72pztfe5d63k4l7/DDOGDGDPS.ipa",
           "size": 144640000,
+          "downloadURL": "https://download1472.mediafire.com/siz85628ldrgLSGk49pGDf_H-wJ7dDeDajMz_TkQv55_HMHAKtSwz0j00mQUBPKgdqfQf6po-7LYp2FhHYb1-nV05DKEMNiWARd2ooxjZ23wDjjGGNLPAPpHQcIozncXUpIKnKAMcmELOgNsmBaBq9npV89oIHyE-ZDjlhIHwihA/72pztfe5d63k4l7/DDOGDGDPS.ipa",
           "sha256": "305012378DA2162D621E1E606C1E046093105ED6742787919322A7AF920746AC",
+          "localizedDescription": "Initial release.",
           "minOSVersion": "14.0"
         }
       ]
