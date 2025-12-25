@@ -11,59 +11,22 @@
         "com.1nxfp.ddogdgdps"
     ],
     "apps": [
-        {
-            "name": "DDOGD GDPS",
-            "bundleIdentifier": "com.1nxfp.ddogdgdps",
-            "marketplaceID": "0123456789",
-            "developerName": "1NXFP",
-            "subtitle": "Geometry Dash Private Server",
-            "localizedDescription": "This is DDOGD GDPS only available on AltStore.",
-            "iconURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
-            "tintColor": "#FF6600",
-            "category": "games",
-            "screenshots": [
-                "https://i.ytimg.com/vi/JiG-lqa05eE/hqdefault.jpg",
-                "https://i.ytimg.com/vi/dli1ESFbe3E/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDTVPdEdlUuAqLFGX7sjoX1-DEVYA",
-                {
-                    "imageURL": "https://gdpshub.b-cdn.net/gdps/2265/pfp.png",
-                    "width": 2556,
-                    "height": 1179
-                }
-            ],
-            "versions": [
-                {
-                    "version": "1.0",
-                    "buildVersion": "1",
-                    "date": "2025-12-25T12:00:00-05:00",
-                    "size": 0,
-                    "downloadURL": "https://download1472.mediafire.com/37r6dbddcpfgn-pMFb8-pfIhrEgyFFaPpPYF2Y_tTO0BRQnItOsRXTjuKUVGvU1mVd68AOSbuGyWEFdXH9nX-y12rLgmMjzK2tCJZieqiCY8A1QFWNRYAEIsMX6fDkWjCwG68aDACc2ha2pYUhikhjTN3AeN5ql0zEgkn1rIt0XT/72pztfe5d63k4l7/DDOGDGDPS.ipa",
-                    "localizedDescription": "Initial release of DDOGD GDPS.",
-                    "minOSVersion": "14.0"
-                }
-            ],
-            "appPermissions": {
-                "entitlements": [
-                    "com.apple.security.application-groups"
-                ],
-                "privacy": {
-                    "NSPhotoLibraryUsageDescription": "App saves photos to your Photo Library.",
-                    "NSCameraUsageDescription": "App uses camera if needed.",
-                    "NSMicrophoneUsageDescription": "App uses microphone if needed."
-                }
-            },
-            "patreon": {}
-        }
-    ],
-    "news": [
-        {
-            "title": "DDOGD GDPS Released",
-            "identifier": "ddogdgdps_release",
-            "caption": "DDOGD GDPS is now available without extra stuff!!!",
-            "date": "2025-12-25",
-            "tintColor": "#FF6600",
-            "imageURL": "https://example.com/ddogdgdps/news_image.png",
-            "notify": true,
-            "url": "https://github.com/1NXFPdev/AltStore-DDOGD-GDPS"
-        }
-    ]
-}
+    {
+        "name": "DDOGD GDPS",
+        "bundleIdentifier": "com.1nxfp.ddogdgdps",
+        "developerName": "1NXFP",
+        "versions": [
+            {
+                "version": "1.0",
+                "date": "2025-12-25T12:00:00-05:00",
+                "localizedDescription": "Initial release of DDOGD GDPS.",
+                "downloadURL": "https://download1472.mediafire.com/37r6dbddcpfgn-pMFb8-pfIhrEgyFFaPpPYF2Y_tTO0BRQnItOsRXTjuKUVGvU1mVd68AOSbuGyWEFdXH9nX-y12rLgmMjzK2tCJZieqiCY8A1QFWNRYAEIsMX6fDkWjCwG68aDACc2ha2pYUhikhjTN3AeN5ql0zEgkn1rIt0XT/72pztfe5d63k4l7/DDOGDGDPS.ipa",
+                "size": 0,
+                "sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+                "minOSVersion": "14.0"
+            }
+        ]
+    }
+]
+
+
